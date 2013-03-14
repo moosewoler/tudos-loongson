@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/arm/bsp/realview
+END
+reset-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/kern/arm/bsp/realview/reset-arm-realview.cpp
+END
+platform_control-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bsp/realview/platform_control-arm-realview.cpp
+END
+platform-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/bsp/realview/platform-arm-realview.cpp
+END
+board_check-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bsp/realview/board_check-arm-realview.cpp
+END
+timer-arm-mptimer-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/bsp/realview/timer-arm-mptimer-realview.cpp
+END
+clock-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/bsp/realview/clock-arm-realview.cpp
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bsp/realview/Modules
+END
+config-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/bsp/realview/config-arm-realview.cpp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/38/trunk/kernel/fiasco/src/kern/arm/bsp/realview/Kconfig
+END
+uart-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/arm/bsp/realview/uart-arm-realview.cpp
+END
+pic-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bsp/realview/pic-arm-realview.cpp
+END
+mem_layout-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/arm/bsp/realview/mem_layout-arm-realview.cpp
+END
+kernel_uart-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/bsp/realview/kernel_uart-arm-realview.cpp
+END
+bootstrap-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bsp/realview/bootstrap-arm-realview.cpp
+END
+timer-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/bsp/realview/timer-arm-realview.cpp
+END
+outer_cache-arm-realview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/bsp/realview/outer_cache-arm-realview.cpp
+END

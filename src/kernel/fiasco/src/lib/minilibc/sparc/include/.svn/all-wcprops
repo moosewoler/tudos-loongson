@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/sparc/include
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/sparc/include/limits.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/sparc/include/setjmp.h
+END

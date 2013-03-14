@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/disasm
+END
+disasm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/disasm/disasm.cc
+END
+disasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/disasm/disasm.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/disasm/COPYING
+END

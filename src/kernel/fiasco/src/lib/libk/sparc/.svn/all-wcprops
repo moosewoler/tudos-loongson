@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/sparc
+END
+atomic-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/sparc/atomic-sparc.cpp
+END
+div32.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/sparc/div32.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ia32/include
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ia32/include/limits.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ia32/include/setjmp.h
+END
+memcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ia32/include/memcpy.h
+END

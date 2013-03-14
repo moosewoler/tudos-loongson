@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/amd64
+END
+div32.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/amd64/div32.h
+END
+atomic-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/amd64/atomic-amd64.cpp
+END
+mod32.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/libk/amd64/mod32.h
+END

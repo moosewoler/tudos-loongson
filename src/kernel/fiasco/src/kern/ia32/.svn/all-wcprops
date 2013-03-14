@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/46/trunk/kernel/fiasco/src/kern/ia32
+END
+vm_factory-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/vm_factory-ia32.cpp
+END
+svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/svm.cpp
+END
+task-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/src/kern/ia32/task-ia32-amd64.cpp
+END
+vm_svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/ia32/vm_svm.cpp
+END
+apic-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/apic-ia32.cpp
+END
+boot_info-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/boot_info-ia32.cpp
+END
+tramp-mp.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/tramp-mp.S
+END
+spin_lock-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/src/kern/ia32/spin_lock-ia32.cpp
+END
+timer-ia32-amd64-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer-ia32-amd64-ux.cpp
+END
+__main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/__main.cpp
+END
+rtc-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/rtc-ia32.cpp
+END
+timer_tick-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer_tick-ia32.cpp
+END
+space-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/space-ia32.cpp
+END
+clock-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/clock-ia32.cpp
+END
+timer_irq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer_irq.cpp
+END
+io_apic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/io_apic.cpp
+END
+thread-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/thread-ia32.cpp
+END
+timer-rtc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer-rtc.cpp
+END
+idt_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/idt_init.h
+END
+vmem_alloc-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/vmem_alloc-ia32.cpp
+END
+vmx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/vmx.cpp
+END
+kdb_ke-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/kdb_ke-ia32.cpp
+END
+no_kdb_ke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/no_kdb_ke.cpp
+END
+vm_vmx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/ia32/vm_vmx.cpp
+END
+gdt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/gdt.cpp
+END
+map_util-io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/map_util-io.cpp
+END
+idt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/idt.cpp
+END
+context-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/context-ia32.cpp
+END
+vm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/vm.cpp
+END
+apic-ia32-mp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/ia32/apic-ia32-mp.cpp
+END
+cpu-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/cpu-ia32.cpp
+END
+kmem-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/kmem-ia32.cpp
+END
+irq_chip_pic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/irq_chip_pic.cpp
+END
+entry-mp.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/entry-mp.S
+END
+startup-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/startup-ia32.cpp
+END
+apic-debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/12/trunk/kernel/fiasco/src/kern/ia32/apic-debug.cpp
+END
+kernel_thread-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/kernel_thread-ia32.cpp
+END
+mem_layout-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/30/trunk/kernel/fiasco/src/kern/ia32/mem_layout-ia32.cpp
+END
+timer-pit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer-pit.cpp
+END
+utcb_init-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/utcb_init-ia32.cpp
+END
+fpu-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/fpu-ia32-ux.cpp
+END
+shortcut.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/19/trunk/kernel/fiasco/src/kern/ia32/shortcut.h
+END
+main-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/main-ia32.cpp
+END
+x86desc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/x86desc.cpp
+END
+dirq-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/dirq-ia32-ux.cpp
+END
+Makerules.KERNEL
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/Makerules.KERNEL
+END
+fpu-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/fpu-ia32.cpp
+END
+boot_console-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/boot_console-ia32-amd64.cpp
+END
+timer-apic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/timer-apic.cpp
+END
+Makerules.SYMBOLS.ia32
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/Makerules.SYMBOLS.ia32
+END
+perf_cnt-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/perf_cnt-ia32.cpp
+END
+kmem_alloc-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/kmem_alloc-ia32.cpp
+END
+paging-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/paging-ia32.cpp
+END
+kip_init-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/kip_init-ia32.cpp
+END
+irq_msi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/irq_msi.cpp
+END
+irq_chip_ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/46/trunk/kernel/fiasco/src/kern/ia32/irq_chip_ia32.cpp
+END
+thread-io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/thread-io.cpp
+END
+ipi-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/ipi-ia32.cpp
+END
+loadcnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/33/trunk/kernel/fiasco/src/kern/ia32/loadcnt.cpp
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/19/trunk/kernel/fiasco/src/kern/ia32/asm.h
+END
+mem_space-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/mem_space-ia32.cpp
+END
+watchdog-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/ia32/watchdog-ia32.cpp
+END
+config-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/ia32/config-ia32.cpp
+END
+timer_tick-apic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/ia32/timer_tick-apic.cpp
+END

@@ -6,17 +6,11 @@ config KERNELVERSION
 	string
 	option env="KERNELVERSION"
 
-config INCLUDE_PPC32
+config INCLUDE_MIPS
 	bool
-	option env="INCLUDE_PPC32"
+	option env="INCLUDE_MIPS"
 	help
-	  Use "INCLUDE_PPC32=y make config" to include ppc32 options.
-
-config INCLUDE_SPARC
-	bool
-	option env="INCLUDE_SPARC"
-	help
-	  Use "INCLUDE_SPARC=y make config" to include sparc options.
+	  Use "INCLUDE_MIPS=y make config" to include mips options.
 
 menu "Target configuration"
 
@@ -43,6 +37,14 @@ config PPC32
 	select CONTEXT_4K
 	select BIG_ENDIAN
 
+config MIPS
+	bool "MIPS processor family (Caution: TAKE IT AT YOUR OWN RISK!)"
+	depends on EXPERIMENTAL && INCLUDE_MIPS
+	help
+      MIPS testing version, mainly for LOONGSON-1B. Currently, there 
+      is no support whatsoever.
+	select CONTEXT_4K
+
 config SPARC
 	bool "SPARC v8 processor family (Caution: EXPERIMENTAL)"
 	depends on EXPERIMENTAL && INCLUDE_SPARC
@@ -63,6 +65,7 @@ choice
 	default PF_PC         if IA32
 	default PF_PC         if AMD64
 	default PF_MP52CXX    if PPC32
+	default PF_LOONGSON1B if MIPS
 	default PF_LEON3      if SPARC
 
 config PF_PC
@@ -123,6 +126,7 @@ choice
 	default ARM_926    if ARM
 	default AMD64_K8   if AMD64
 	default PPC32_603e if PPC32
+	default MIPS_LS232  if MIPS
 	default LEON3      if SPARC
 
 config ARM_PXA
@@ -270,6 +274,12 @@ config PPC32_603e
 	depends on PPC32
 	help
 	  Choose this if you have an PowerPC 603e CPU.
+
+config MIPS_LS232
+	bool "ICT LS232(MIPS-II compatible)"
+	depends on MIPS
+	help
+	  Choose this if you have an ICT LS232 CPU.
 
 config LEON3
 	bool "Gaisler SPARC LEON3"
@@ -597,7 +607,7 @@ config WATCHDOG
 
 config SERIAL
 	bool "Support for debugging over serial line"
-	depends on PF_PC || ARM || PPC32 || SPARC
+	depends on PF_PC || ARM || PPC32 || MIPS || SPARC
 	default y
 	help
 	  This option enables support for input/output over serial interface.
@@ -746,7 +756,7 @@ config PERF_CNT
 	def_bool y if JDB && (IA32 || AMD64 || ARM)
 
 config BIT32
-	def_bool y if ARM || IA32 || PPC32 || SPARC
+	def_bool y if ARM || IA32 || PPC32 || MIPS || SPARC
 
 config BIT64
 	def_bool y if AMD64
@@ -773,6 +783,7 @@ config XARCH
 	default "amd64" if AMD64 && PF_PC
 	default "ia32" if IA32 && PF_PC
 	default "ppc32" if PPC32
+	default "mips"  if MIPS
 	default "sparc" if SPARC
 
 config IA32_TARGET

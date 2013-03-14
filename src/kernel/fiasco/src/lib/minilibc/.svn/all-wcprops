@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/minilibc
+END
+panic.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/panic.c
+END
+__assert_fail.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/__assert_fail.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/memcpy.c
+END
+puts.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/puts.c
+END
+isdigit.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isdigit.c
+END
+isgraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isgraph.c
+END
+__lltostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/__lltostr.c
+END
+aeabi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/aeabi.c
+END
+strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strstr.c
+END
+strncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strncpy.c
+END
+gets.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/gets.c
+END
+raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/raise.c
+END
+putchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/putchar.c
+END
+longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/longjmp.c
+END
+strlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strlen.c
+END
+fprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/minilibc/fprintf.c
+END
+strcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strcmp.c
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/vsprintf.c
+END
+iscntrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/iscntrl.c
+END
+memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/memcmp.c
+END
+islower.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/islower.c
+END
+sprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/sprintf.c
+END
+ispunct.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ispunct.c
+END
+__v_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/__v_printf.c
+END
+__ltostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/__ltostr.c
+END
+strncmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strncmp.c
+END
+isspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isspace.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strtol.c
+END
+isprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isprint.c
+END
+vprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/vprintf.c
+END
+vsnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/vsnprintf.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/memset.c
+END
+tolower.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/tolower.c
+END
+strcspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strcspn.c
+END
+memccpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/minilibc/memccpy.c
+END
+atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/atexit.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/printf.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/snprintf.c
+END
+vprintf_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/vprintf_backend.h
+END
+strchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/minilibc/strchr.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/minilibc/memmove.c
+END
+isalnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isalnum.c
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/memchr.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strtoul.c
+END
+getchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/getchar.c
+END
+isalpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isalpha.c
+END
+isblank.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isblank.c
+END
+strcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strcpy.c
+END
+isxdigit.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isxdigit.c
+END
+isascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isascii.c
+END
+isupper.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/isupper.c
+END
+strspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/strspn.c
+END

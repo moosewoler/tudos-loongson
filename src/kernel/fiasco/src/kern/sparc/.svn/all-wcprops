@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc
+END
+dirq-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/dirq-sparc.cpp
+END
+kernel_task-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kernel_task-sparc.cpp
+END
+config-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/config-sparc.cpp
+END
+sys_call_page-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/sys_call_page-sparc.cpp
+END
+kernel_thread-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kernel_thread-sparc.cpp
+END
+entry_frame-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/entry_frame-sparc.cpp
+END
+mem_layout-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/mem_layout-sparc.cpp
+END
+vmem_alloc-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/vmem_alloc-sparc.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/main.cpp
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/crt0.S
+END
+kmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kmem.cpp
+END
+context-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/context-sparc.cpp
+END
+tb_entry-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/tb_entry-sparc.cpp
+END
+space-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/space-sparc.cpp
+END
+exceptions.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/exceptions.S
+END
+kip_init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kip_init.cpp
+END
+trap_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/trap_state.cpp
+END
+task-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/task-sparc.cpp
+END
+startup-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/startup-sparc.cpp
+END
+kmem_alloc-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kmem_alloc-sparc.cpp
+END
+paging-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/paging-sparc.cpp
+END
+warn-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/warn-sparc.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/util.cpp
+END
+thread-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/thread-sparc.cpp
+END
+bootstrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/bootstrap.cpp
+END
+continuation-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/continuation-sparc.cpp
+END
+boot_uart_init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/boot_uart_init.cpp
+END
+mem_unit-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/mem_unit-sparc.cpp
+END
+boot_info-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/boot_info-sparc.cpp
+END
+uart-asi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/uart-asi.cpp
+END
+kdb_ke-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/kdb_ke-sparc.cpp
+END
+utcb_init-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/utcb_init-sparc.cpp
+END
+Makerules.KERNEL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/Makerules.KERNEL
+END
+decrementer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/decrementer.cpp
+END
+cpu-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/cpu-sparc.cpp
+END
+utcb_support-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/utcb_support-sparc.cpp
+END
+mem_space-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/mem_space-sparc.cpp
+END
+timer_tick-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/timer_tick-sparc.cpp
+END
+timer-decr-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/timer-decr-sparc.cpp
+END
+mapping-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/mapping-sparc.cpp
+END
+thread-jdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/sparc/thread-jdb.cpp
+END
+psr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/sparc/psr.cpp
+END

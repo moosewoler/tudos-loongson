@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ppc32
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/minilibc/ppc32/setjmp.S
+END

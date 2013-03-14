@@ -179,7 +179,7 @@ source:
 	test -e source || ln -sf $(srcdir) source
 
 
-BSP_DIR            := $(srcdir)/kern/arm/bsp $(srcdir)/kern/ppc32/bsp $(srcdir)/kern/sparc/bsp
+BSP_DIR            := $(srcdir)/kern/mips/bsp
 KCONFIG_FILE       := Kconfig
 KCONFIG_SRC_FILE   := $(srcdir)/Kconfig
 KCONFIG_BSP_FILES  := $(shell find $(BSP_DIR) -name Kconfig -follow -print)
@@ -190,7 +190,7 @@ kconfig_call = $(MAKE) -C $(tooldir)/kconfig O=$(objbase) \
 	       KCONFIG_TRISTATE=config/tristate.conf \
 	       KCONFIG_CONFIG=globalconfig.out \
 	       KCONFIG_AUTOCONFIG=config/auto.conf \
-	       KERNELVERSION=SVN MENUCONFIG_COLOR=blackbg \
+	       KERNELVERSION=SVN MENUCONFIG_COLOR=classic \
 	       INCLUDE_PPC32=$(INCLUDE_PPC32) \
 	       INCLUDE_SPARC=$(INCLUDE_SPARC) \
 	       fiasco_srcdir=$(srcdir)/..

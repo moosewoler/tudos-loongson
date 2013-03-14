@@ -1,0 +1,9 @@
+# vim:set ft=make:
+
+PREPROCESS_PARTS	+= loongson1b uart_loongson1b
+clock_IMPL		+= clock-generic
+config_IMPL		+= config-mipsel-loongson1b
+uart_IMPL		+= uart-loongson1b
+boot_info_IMPL		+= boot_info-loongson1b
+pic_IMPL		+= pic-loongson1b
+timer_tick_IMPL         += timer_tick-single-vector 

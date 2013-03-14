@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/abi/amd64
+END
+kip-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/abi/amd64/kip-amd64.cpp
+END
+kip-amd64-debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/abi/amd64/kip-amd64-debug.cpp
+END

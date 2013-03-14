@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/disasm/include/opcode
+END
+arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/disasm/include/opcode/arm.h
+END
+ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/disasm/include/opcode/ppc.h
+END
+sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/disasm/include/opcode/sparc.h
+END

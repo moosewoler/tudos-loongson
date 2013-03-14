@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/libk/arm
+END
+atomic-arm-up.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/libk/arm/atomic-arm-up.cpp
+END
+div32.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/libk/arm/div32.h
+END

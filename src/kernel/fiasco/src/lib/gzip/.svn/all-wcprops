@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/adler32.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/zutil.h
+END
+gzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/gzip.h
+END
+my_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/my_conf.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/trees.c
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/deflate.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/zconf.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/zlib.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/COPYING
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/trees.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/deflate.h
+END
+gzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/gzip/gzip.c
+END

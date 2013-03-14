@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/lib/uart
+END
+uart_leon3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_leon3.cc
+END
+uart_leon3.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_leon3.h
+END
+uart_dcc-v6.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_dcc-v6.cc
+END
+io_regblock_asi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/io_regblock_asi.h
+END
+uart_dcc-v6.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_dcc-v6.h
+END
+io_regblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/io_regblock.h
+END
+io_regblock_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/io_regblock_port.h
+END
+of1275.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/of1275.h
+END
+uart_omap35x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_omap35x.cc
+END
+uart_pl011.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/lib/uart/uart_pl011.cc
+END
+uart_imx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_imx.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/lib/uart/Makefile
+END
+uart_omap35x.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_omap35x.h
+END
+uart_imx.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_imx.h
+END
+uart_pl011.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/lib/uart/uart_pl011.h
+END
+uart_s3c2410.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/lib/uart/uart_s3c2410.cc
+END
+uart_s3c2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_s3c2410.h
+END
+uart_of.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_of.cc
+END
+uart_mpc52xx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_mpc52xx.cc
+END
+uart_of.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_of.h
+END
+uart_mpc52xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_mpc52xx.h
+END
+uart_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/lib/uart/uart_base.h
+END

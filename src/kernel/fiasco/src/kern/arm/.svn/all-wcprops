@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/47/trunk/kernel/fiasco/src/kern/arm
+END
+fpu-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/arm/fpu-arm.cpp
+END
+timer_tick-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/timer_tick-arm.cpp
+END
+mapping-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/mapping-arm.cpp
+END
+bootstrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/bootstrap.cpp
+END
+perf_cnt-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/31/trunk/kernel/fiasco/src/kern/arm/perf_cnt-arm.cpp
+END
+tramp-mp.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/tramp-mp.S
+END
+kernel_task-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/kernel_task-arm.cpp
+END
+boot_uart_init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/33/trunk/kernel/fiasco/src/kern/arm/boot_uart_init.cpp
+END
+__main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/__main.cpp
+END
+config-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/config-arm.cpp
+END
+ivt.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/ivt.S
+END
+sys_call_page-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/sys_call_page-arm.cpp
+END
+kernel_thread-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/kernel_thread-arm.cpp
+END
+Makerules.KERNEL
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/src/kern/arm/Makerules.KERNEL
+END
+mem_layout-noncont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/mem_layout-noncont.cpp
+END
+mem_layout-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/mem_layout-arm.cpp
+END
+entry_frame-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/kern/arm/entry_frame-arm.cpp
+END
+vmem_alloc-arch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/vmem_alloc-arch.cpp
+END
+vcpu-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/vcpu-arm.cpp
+END
+timer-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/kern/arm/timer-arm.cpp
+END
+spin_lock-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/src/kern/arm/spin_lock-arm.cpp
+END
+context-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/context-arm.cpp
+END
+tb_entry-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/tb_entry-arm.cpp
+END
+kmem_space.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/kmem_space.cpp
+END
+thread-jdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/thread-jdb.cpp
+END
+thread-entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/thread-entry.cpp
+END
+space-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/space-arm.cpp
+END
+timer-arm-mptimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/timer-arm-mptimer.cpp
+END
+pic-gic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/pic-gic.cpp
+END
+mem_op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/47/trunk/kernel/fiasco/src/kern/arm/mem_op.cpp
+END
+mem_unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/mem_unit.cpp
+END
+task-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/task-arm.cpp
+END
+startup-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/startup-arm.cpp
+END
+kmem_alloc-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/kmem_alloc-arm.cpp
+END
+kern_lib_page.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/kern_lib_page.cpp
+END
+outer_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/outer_cache.cpp
+END
+paging-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/paging-arm.cpp
+END
+vm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/vm.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/main.cpp
+END
+pagetable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/pagetable.cpp
+END
+thread-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/thread-arm.cpp
+END
+continuation-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/continuation-arm.cpp
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/crt0.S
+END
+kmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/kmem.cpp
+END
+boot_info-arch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/33/trunk/kernel/fiasco/src/kern/arm/boot_info-arch.cpp
+END
+kdb_ke-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/kern/arm/kdb_ke-arm.cpp
+END
+utcb_init-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/utcb_init-arm.cpp
+END
+ipi-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/ipi-arm.cpp
+END
+pagetable-arch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/pagetable-arch.cpp
+END
+outer_cache-l2cxx0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/outer_cache-l2cxx0.cpp
+END
+gic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/gic.cpp
+END
+cpu-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/cpu-arm.cpp
+END
+pagetable-arch_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/kern/arm/pagetable-arch_defs.h
+END
+mem_space-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/mem_space-arm.cpp
+END
+kip_init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kern/arm/kip_init.cpp
+END
+trap_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/trap_state.cpp
+END
+utcb_support-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/kern/arm/utcb_support-arm.cpp
+END
