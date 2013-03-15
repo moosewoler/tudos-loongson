@@ -681,6 +681,14 @@ public:
   enum { Msg_size = 39 };
 };
 
+INTERFACE [mips]:
+
+EXTENSION class L4_exception_ipc
+{
+public:
+  enum { Msg_size = 32 }; // MWO: 32? no any reason yet.
+};
+
 INTERFACE [sparc]:
 EXTENSION class L4_exception_ipc
 {

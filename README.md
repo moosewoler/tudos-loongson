@@ -137,7 +137,64 @@ $ make
 
 27. 再次编译
 $ make
-提示没有构建mappint-mips.cpp的规则。
+提示没有构建mapping-mips.cpp的规则。
+
+28. 添加mapping-mips.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/mapping-xxx.cpp**
+根据ppc32添加。
+
+29. 再次编译
+$ make
+提示没有构建pic-loongson1b.cpp的规则。
+
+30. 添加pic-loongson1b.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/bsp/yyy/pic-yyy.cpp**
+根据ppc32/mpc52xx添加。
+
+31. 再次编译
+$ make
+提示没有构建mem_space-mips.cpp的规则。
+
+30. 添加mem_space-mips.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/bsp/yyy/pic-yyy.cpp**
+根据arm添加，只保留armv5的实现（空实现）。
+这里由于ppc32做mem_space需要多个文件(mem_space-htab、mem_space-cache)，所以删除
+Modules.mips中相应的依赖。
+
+32. 再次编译
+$ make
+提示没有构建space-mips.cpp的规则。
+
+33. 添加space-mips.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/space-xxx.cpp**
+根据ppc32添加。
+
+32. 再次编译
+$ make
+提示没有构建kmem.cpp的规则。
+
+33. 添加kmem.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/kmem.cpp**
+根据ppc32添加。
+
+34. 再次编译
+$ make
+提示没有构建kmem_alloc-mips.cpp的规则。
+
+35. 添加kmem_alloc-mips.cpp
+**${src-dir}/src/kernel/fiasco/src/kern/xxx/kmem_alloc-mips.cpp**
+根据ppc32添加。
+
+36. 发现所有以上都列在Modules.mips。按照Modules.mips所依赖文件，从ppc32复制过来，
+并修改。
+
+37. 复制jdb目录
+**${src-dir}/src/kernel/fiasco/src/jdb**
+内核调试功能
+
+38. 修改复制的文件中ppc32为mips，mpc52xx为loongson1b，为MIPS增加一些空实现
+
+39. gcc有版本限制，下载最新的工具链。
 
 肩宽35
 胸围75
